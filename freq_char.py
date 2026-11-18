@@ -6,3 +6,4 @@ for char in word:
     else:
         freq[char]=1
 print("Character Frequency:", freq)
+print("Program completed")
